@@ -1,4 +1,4 @@
-01 Line A
+01 Line A(diff on line 01)
 02 Line B
 03 Line C(diff on line 03)
 04 Line D
